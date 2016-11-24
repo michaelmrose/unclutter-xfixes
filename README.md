@@ -14,6 +14,10 @@ This is a rewrite of the popular tool unclutter, but using the x11-xfixes extens
 
 unclutter-xfixes is available in the AUR as [unclutter-xfixes-git](https://aur.archlinux.org/packages/unclutter-xfixes-git/).
 
+### Funtoo
+
+unclutter-xfixes is available in Funtoo as x11-misc/unclutter-xfixes and conflicts with x11-misc/unclutter.
+
 ### Manual
 
 unclutter-xfixes is make-based. Hence, you can clone the git repository and compile and install it via
